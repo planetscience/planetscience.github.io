@@ -8,7 +8,7 @@ tags:
 
 # Paper1: 
 
-## Runaway gas accretion and gap opening versus type~I migration
+Runaway gas accretion and gap opening versus type~I migration
 
 ![](/media/files/2016/10/19/paper1.png)
 
@@ -17,7 +17,7 @@ tags:
 
 # Paper2: 
 
-## Generation of Highly Inclined Trans-Neptunian Objects by Planet Nine
+Generation of Highly Inclined Trans-Neptunian Objects by Planet Nine
 
 ![](/media/files/2016/10/19/paper2.png)
 

@@ -3,15 +3,16 @@ title: 本周文章汇总
 layout: post
 tags:
   - habitability
+  - exoplanet
 ---
 
 # Paper1: 
 
-## The Pale Orange Dot: The Spectrum and Habitability of Hazy Archean Earth
+The Pale Orange Dot: The Spectrum and Habitability of Hazy Archean Earth (Arney et al. 2016)
 
 ![](/media/files/2016/10/17/paper1.png)
 
-### 文章链接[arXiv](https://arxiv.org/abs/1610.04515)
+文章链接[arXiv](https://arxiv.org/abs/1610.04515)
 
 
 

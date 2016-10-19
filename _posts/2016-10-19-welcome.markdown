@@ -2,22 +2,22 @@
 title: 本周文章汇总
 layout: post
 tags:
-  - partition
-  - program
+  - migration
+  - exoplanet
 ---
 
-#Paper1: 
+# Paper1: 
 
-##Runaway gas accretion and gap opening versus type~I migration
+## Runaway gas accretion and gap opening versus type~I migration
 
 ![](/media/files/2016/10/19/paper1.png)
 
 文章链接[arXiv](https://arxiv.org/abs/1610.05403)
 
 
-#Paper2: 
+# Paper2: 
 
-##Generation of Highly Inclined Trans-Neptunian Objects by Planet Nine
+## Generation of Highly Inclined Trans-Neptunian Objects by Planet Nine
 
 ![](/media/files/2016/10/19/paper2.png)
 
